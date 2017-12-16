@@ -3,5 +3,6 @@
 *.tsv
 *.cfg
 *.npy
+*.pkl
 __pychache__
 
