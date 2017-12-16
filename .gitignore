@@ -1,0 +1,6 @@
+*.txt
+*.csv
+*.tsv
+*.cfg
+__pychache__
+
